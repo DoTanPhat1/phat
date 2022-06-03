@@ -8,7 +8,7 @@ namespace lab4DoTanPhat.Controllers
 {
     public class CoursesController : Controller
     {
-        // GET: Courses
+        // GET: Courses///
         public ActionResult Create()
         {
             return View();
